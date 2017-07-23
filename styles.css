@@ -6,23 +6,27 @@
   box-sizing: border-box;
 }
 
+/* #237 dark blue, #040404 dark gray/black, #333 gray*/
+
 body {
   background: #fbfbfb;
 }
 
 header {
-  height: 100vh;
   margin: auto;
-  border-top: 1rem solid #237;
   padding: 30vh 1.5rem 1rem 1.5rem;
   text-align: center;
-  font-family: Source Sans Pro, sans-serif;
 }
 
 h1 {
   font-weight: 300;
   font-size: 3rem;
   color: #040404;
+}
+
+section {
+	width: 400rem;
+	margin: auto;
 }
 
 p {
