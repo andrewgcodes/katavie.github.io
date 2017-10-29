@@ -9,6 +9,13 @@
     </head>
 
     <body>
+        <script src="js/packery.js"></script>
+        <script>
+            var pckry = new Packery( '#container', {
+                itemSelector: 'article'
+            });
+        </script>
+
         <header>
             <img src="img/name.png" alt="Katherine Huang">
         </header>
@@ -115,12 +122,5 @@
                 </div>
             </article>                       
         </section>
-        
-        <script src="js/packery.js"></script>
-        <script>
-            var pckry = new Packery( '#container', {
-                itemSelector: 'article'
-            });
-        </script>
     </body>
 </html>
