@@ -1,29 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="https://fonts.googleapis.com/css?family=Muli:400,700" rel="stylesheet">
-        <link href="css/styles.min.css" rel="stylesheet" type="text/css">
-        <title>Katherine Huang</title>
-    </head>
+            <script src="js/imagesloaded.js"></script>
+            <script src="js/packery.js"></script>
 
-    <body>
-        <script src="js/imagesloaded.js"></script>
-        <script src="js/packery.js"></script>
-
-        <header>
-            <img src="img/name.png" alt="Katherine Huang">
-        </header>
-
-        <nav>
-        	<ul>
-                <li><a href="about.html">About</a></li>
-        		<li><a href="Katherine-Huang-Resume.pdf">Resume</a></li>
-        	</ul>
-        </nav>
-
-        <section id="container">
             <article>
                 <div class="img-wrap">
                     <img src="img/blueprint-mentor.jpg" alt="">
@@ -116,15 +93,12 @@
                         <h2>Photography: Walden Pond</h2>
                     </div>
                 </div>
-            </article>                       
-        </section>
+            </article>
 
-        <script>
-            var imgLoad = new imagesLoaded( document.querySelector('#container'), function( instance) {
-                    new Packery( '#container', {
-                        itemSelector: 'article'
-                    });
-            });
-        </script>
-    </body>
-</html>
+            <script>
+                var imgLoad = new imagesLoaded( document.querySelector('#container'), function( instance) {
+                        new Packery( '#container', {
+                            itemSelector: 'article'
+                        });
+                });
+            </script>

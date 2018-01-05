@@ -8,12 +8,12 @@
         <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
 
         <link href="https://fonts.googleapis.com/css?family=Muli:400,700" rel="stylesheet">
-        <link href="{{ 'css/styles.min.css' | prepend:site.url }}" rel="stylesheet" type="text/css">
+        <link href="{{ '/css/styles.min.css' | prepend:site.url }}" rel="stylesheet" type="text/css">
     </head>
 
     <body>
         <header>
-            <img src="{{ 'img/name.png' | prepend:site.url }}" alt="Katherine Huang">
+            <img src="{{ '/img/name.png' | prepend:site.url }}" alt="Katherine Huang">
         </header>
 
         <nav>
@@ -23,3 +23,5 @@
         		{% endfor %}
         	</ul>
         </nav>
+
+        <section id="container">

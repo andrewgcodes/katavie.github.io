@@ -1,21 +1,5 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+{% include header.html %}
 
-		<meta content="{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}" name="title">
-		<title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-		
-		<link href="{{ 'css/styles.css' | prepend:site.url}}" rel="stylesheet" type="text/css">
-		<link href="https://fonts.googleapis.com/css?family=Barlow:300,700,900" rel="stylesheet">
-	</head>
+{{ page.content }}
 
-	<body>
-		{% include header.html %}
-
-		{{ content }}
-
-		{% include footer.html %}
-	</body>
-</html>
+{% include footer.html %}
