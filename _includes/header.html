@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta content="{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}" name="title">
+        <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,700" rel="stylesheet">
+        <link href="{{ 'css/styles.min.css' | prepend:site.url }}" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <header>
+            <img src="{{ 'img/name.png' | prepend:site.url }}" alt="Katherine Huang">
+        </header>
+
+        <nav>
+        	<ul>
+        		{% for link in site.links %}
+        		<li><a href="{{ link.url | prepend:site.url }}">{{ link.name }}</a></li>
+        		{% endfor %}
+        	</ul>
+        </nav>
