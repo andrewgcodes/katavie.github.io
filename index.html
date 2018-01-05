@@ -1,11 +1,12 @@
 ---
 title: Home
-layout: default
+layout: home
 ---
 
-            <script src="js/imagesloaded.js"></script>
-            <script src="js/packery.js"></script>
+        <script src="js/imagesloaded.js"></script>
+        <script src="js/packery.js"></script>
 
+        <section id="container"></section>
             <article>
                 <div class="img-wrap">
                     <img src="img/blueprint-mentor.jpg" alt="">
@@ -99,11 +100,12 @@ layout: default
                     </div>
                 </div>
             </article>
+        </section>
 
-            <script>
-                var imgLoad = new imagesLoaded( document.querySelector('#container'), function( instance) {
-                        new Packery( '#container', {
-                            itemSelector: 'article'
-                        });
-                });
-            </script>
+        <script>
+            var imgLoad = new imagesLoaded( document.querySelector('#container'), function( instance) {
+                    new Packery( '#container', {
+                        itemSelector: 'article'
+                    });
+            });
+        </script>
