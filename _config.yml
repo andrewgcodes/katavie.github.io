@@ -9,6 +9,7 @@ links:
     url: /Katherine-Huang-Resume.pdf
 
 permalink: /posts/:title
+
 defaults:
   - values:
       layout: "default"

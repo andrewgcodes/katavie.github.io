@@ -1,3 +1,3 @@
-## About
+<h2>About</h2>
 
-Hey, world. :)
+<p>Hey, world. :)</p>
