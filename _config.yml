@@ -5,6 +5,8 @@ url:              http://katherinehuang.co # no slash at the end
 links:
   - name: About
     url: /about
+  - name: Writing
+    url: /posts
   - name: Resume
     url: /Katherine-Huang-Resume.pdf
 
