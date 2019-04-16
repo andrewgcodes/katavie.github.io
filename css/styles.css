@@ -1,121 +1,47 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+body {
+	font-family: system-ui;
 }
 
-body { background: #fefefe }
-
-.row {
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: flex;
-}
-
-.half { width: 50% }
-
-img { max-width: 100% }
-
-section {
-	width: 60%;
+#container {
+	width: 90%;
+	max-width: 600px;
 	margin: auto;
+	padding: 2.5rem 0;
 }
 
-h3 {
-	font: 600 2.25rem/125% Libre Franklin, sans-serif;
+h1, h2 {
+	margin: 2rem 0 .5rem;
+	color: #222;
 }
 
-p {
-	font: 1.25rem/160% Libre Franklin, sans-serif;
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+p, li {
+	font-size: 1rem;
+	font-family: Georgia, serif;
+	line-height: 150%;
+	color: #333;
 	margin: 1rem 0;
 }
 
-p, h3, span { color: #222 }
-
-section a {
-	text-decoration: none;
-	border-bottom: 2px solid #f23c3c;
-	color: #444;
-	transition: .15s;
-	font-weight: 600;
-}
-section a:hover, section a:active {
-	border-bottom: 2px solid #f78484;
-}
-
-article { margin: 4rem 0 }
-
-.mobile-screen-only { display: none !important }
-
-b { font-weight: 600 }
-
-#logo {
-	width: 180px;
-}
-
-#logo-link {
-	display: inline-block;
-	vertical-align: middle;
-}
-nav {
-	text-align: center;
-	width: 100%;
-	margin: 4rem auto 2rem;
-}
-
-footer {
-	text-align: center;
-	width: 60%;
-	margin: 2rem auto 4rem;
-}
-
-#location {
-	display: inline-block;
-	vertical-align: top;
-}
-
-div.half:first-child {
-	text-align: right;
-	padding-right: 1.25rem;
-}
-div.half:last-child {
-	padding-left: 1.25rem;
-}
-
-.caption {
-	display: block;
-	font: 1rem/130% Libre Franklin, sans-serif;
+li {
 	margin: .5rem 0;
 }
 
-.nav-link {
-	display: inline-block;
-	vertical-align: middle;
-	text-decoration: none;
-	font: 300 1.45rem/100% Libre Franklin, sans-serif;
-	text-transform: uppercase;
-	letter-spacing: .5px;
-	margin: 1rem 5rem;
-	color: #444;
-	padding-bottom: 4px;
-	border-bottom: 2px solid transparent;
-	transition: .15s;
-}
-.nav-link:active, .nav-link:hover {
-	color: #888;
-	border-bottom: 2px solid #f23c3c;
+a {
+	color: #b00;
 }
 
-@media (max-width: 1100px) {
-	section, footer { width: 90% }
+a:hover, a:active {
+	color: #d00;
 }
 
-@media (max-width: 850px) {
-	.row { flex-wrap: wrap }
-	div.half { width: 100%; padding: 1.25rem 0 !important }
-	div.half:first-child { text-align: left }
-
-	.wide-screen-only { display: none !important }
-	.mobile-screen-only { display: block !important }
+img {
+	width: 75%;
 }
