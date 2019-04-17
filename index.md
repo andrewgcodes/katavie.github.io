@@ -41,12 +41,9 @@ Last updated April 16, 2019
 
 ## Let's chat
 
-hello at katmh dot com
-
-LinkedIn: [@katmh](https://www.linkedin.com/in/katmh)
-
-Github: [@katavie](https://github.com/katmhuang)
-
-Instagram: [@texxture](https://instagram.com/texxture)
-
-Maker Instagram: [@kat.ship](https://instagram.com/kat.ship)
+- hello at katmh dot com
+- [Hack Club Slack](https://hackclub.com/community): @kat
+- LinkedIn: [@katmh](https://www.linkedin.com/in/katmh)
+- Github: [@katavie](https://github.com/katmhuang)
+- Instagram: [@texxture](https://instagram.com/texxture)
+- Maker Instagram: [@kat.ship](https://instagram.com/kat.ship)
