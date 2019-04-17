@@ -41,7 +41,7 @@ Last updated April 16, 2019
 
 ## Let's chat
 
-- hello at katmh dot com
+- Email: hello at katmh dot com
 - [Hack Club Slack](https://hackclub.com/community): @kat
 - LinkedIn: [@katmh](https://www.linkedin.com/in/katmh)
 - Github: [@katavie](https://github.com/katmhuang)
