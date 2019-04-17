@@ -4,7 +4,7 @@ layout: default
 
 # Katherine Huang
 
-Hey, I'm Kat, a high schooler from Lowell, MA, and incoming first-year at MIT, where I plan to major in [Data Science](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science) and minor in [Anthropology](https://anthropology.mit.edu/). Above all else, I value integrity, kindness, and gratitude.
+Hey, I'm Kat, a high schooler from Lowell, MA, and incoming first-year at MIT, where I plan to major in [Data Science](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science) and minor in [Anthropology](https://anthropology.mit.edu/). This summer I'm interning at [Repl.it](https://repl.it). Above all else, I value integrity, kindness, and gratitude.
 
 For the first time in history, all of the world's issues involve STEM, but these fields remain daunting and inaccessible for many. I founded [Science & Us](scienceandus.org) to change that. We organize events to help high schoolers communicate science and better understand the complex issues they care about. We're currently working on a book of stories from people who connect STEM and the public!
 
