@@ -18,17 +18,15 @@ When I'm not working on projects, I'm probably scrolling through memes or exerci
 
 ## What I'm doing now*
 
-- On a weeklong break from school!
-- Preparing for AP exams
+- Saying I'll study for AP exams
 - Looking for a venue and fundraising for MAHacks V
-- Planning the Science & Us Makeathon and book!
-- Strategizing about my robotics team's outreach, fundraising, training, and branding
-- Working on Formable (a tool to make Google Forms super customizable and responsive) and some other small web projects
-- Exploring storytelling using writing, data, interactive web content, and/or video
-- Trying to get my splits back and achieve single-arm push ups
-- Reading: *Evicted* by Matthew Desmond, *Educated* by Tara Westover, *Lean In* by Sheryl Sandberg
+- Planning the Science and Us Makeathon and book, *Stories of Science and Us*
+- Robotics: organizing outreach events, writing grants, planning summer training :D
+- Learning ReactJS to build Formable (a tool to make Google Forms super customizable, professional looking, and responsive)
+- Starting too many books! Some I'm currently reading: *Evicted* by Matthew Desmond, *Educated* by Tara Westover, *Lean In* by Sheryl Sandberg, *The Gene* by Siddhartha Mukherjee, *No Hard Feelings: The Secret Power of Embracing Emotions at Work* by Liz Fosslien and Mollie West Duffy
+- Trying to interview a bunch of people to get practice storytelling
 
-Last updated April 16, 2019
+Last updated April 25, 2019
 
 \* The concept of a "now page" is from [Derek Sivers](https://sivers.org/nowff)
 
