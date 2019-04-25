@@ -33,8 +33,9 @@ Last updated April 25, 2019
 ## Some things I've made
 
 - [MAHacks](https://mahacks.com) website and branding 
-- [Science & Us](https://scienceandus.org) website and branding
+- [Science & Us](https://scienceandus.org) website, branding, and copywriting
 - [We Are America](https://lhsweareamerica.com) website and book chapter
+- [FRC Team 5962](https://frcpersevere.com) website
 - [TEDxLowellHigh](https://tedxlowellhigh.com) website and license application
 
 ## Let's chat
